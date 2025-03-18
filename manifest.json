@@ -1,0 +1,23 @@
+{
+  "name": "AI Project Builder",
+  "short_name": "Project Builder",
+  "description": "Helpful Assistant AI",
+  "start_url": "https://script.google.com/macros/s/AKfycbw0ElAe-qln0igp4w6aDo2vuKZ36OZd4JvYAofHEZiP4VFtTha9kLtXQwzqmp-kqj7ofA/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://s21-kling.klingai.com/bs2/upload-ylab-stunt-sgp/se/ai_portal_sgp_mmu_txt2img_aiweb_v15/43797c9d-cd0f-4636-869a-9b5216b36f3f_image.png?x-kcdn-pid=112372",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://s21-kling.klingai.com/bs2/upload-ylab-stunt-sgp/se/ai_portal_sgp_mmu_txt2img_aiweb_v15/b674370d-cea6-4c05-b4cf-04b53acd9969_image.png?x-kcdn-pid=112372",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
