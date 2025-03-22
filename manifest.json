@@ -2,7 +2,7 @@
   "name": "AI Project Builder",
   "short_name": "Project Builder",
   "description": "Helpful Assistant AI",
-  "start_url": "https://script.google.com/macros/s/AKfycbywCQcJZoMrxnisr9l9Z7YgpQUcvydJXF5K7U9jq2uXdIgQ0EvUQ6Rk04tyRWA-MQ/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbxr8lmurkL0uMQ2HJdcbwLHG-XZNV2Q0ohqSGFf7JPGuctTNKgYDDzKaLX7MAsgwpDe/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
